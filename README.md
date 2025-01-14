@@ -28,3 +28,5 @@ Add environmental challenges, like adapting fish traits to deep-sea pressure or 
 
 - Make basic Q&A game showing level status
 - Introduce more real game items (pygame)
+- Create login/profile pages etc
+- Decide on sprites and music
